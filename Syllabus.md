@@ -43,6 +43,35 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 
 ### Problems
 
-1. [1991- Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)  ([Find Pivot Index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/))
-   - left = right( sum - left - current)
+1.  [Find Pivot Index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/) ([1991- Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) )
+    - left = right( sum - left - current)
+2.  [Largest Number At Least Twice of Others](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/)
+3.  [Plus One](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/)
+4.  *[Diagonal Traverse](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1167/)
+    - the sum of indices on all diagonals are equal
+    - direction: %2
+5.  [54 - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+6.  [Pascal's Triangle](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1170/)
+
+7.  [Add Binary](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)
+8.  [Implement strStr()](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1161/)
+9.  [Longest Common Prefix](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1162/)
+10.  [Reverse String](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1183/)
+
+11. [Array Partition I](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1154/)
+
+12. [167-Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    - two-pointer
+13. [Remove Element](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1151/)
+14. [Max Consecutive Ones](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1301/) (Sliding window problem)
+15. [209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (Sliding window problem)
+
+### Conclusion
+
+1. **Two-pointer Technique**
+   - one starts from the first element and another starts from the last element
+     - 10, 11, 12
+   - one is still used for the iteration while the second one always points at the position for next addition
+     - 13, 14, 15
+   - [Slow-pointer and fast-pointer problem in Linked List](https://leetcode.com/explore/learn/card/linked-list/214/linked-list-two-pointer/)
 2. 
