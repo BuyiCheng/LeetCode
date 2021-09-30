@@ -23,7 +23,7 @@
 
 ## set
 | Operation      | Average Case | Worst Case   |
-| :---:         |    :----:   |      : ---: |
+| ---         |    ----   |       --- |
 | x in s       | O(1)       | O(n)   |
 | Union s|t       | O(len(s)+len(t))       |    |
 | Intersection s&t       | O(min(len(s), len(t))       | O(len(s) * len(t))   |
@@ -36,7 +36,7 @@
 
 ## dict
 | Operation      | Average Case | Worst Case   |
-| :---:         |    :----:   |      : ---: |
+| ---         |    ----   |       --- |
 | k in d       | O(1)       | O(n)   |
 | Copy       | O(n)       | O(n)   |
 | Get Item       | O(1)       | O(n)   |
@@ -46,7 +46,7 @@
 
 ## collections.deque
 | Operation      | Average Case | Worst Case   |
-| :---:         |    :----:   |      : ---: |
+| ---         |    ----   |       --- |
 | Copy       | O(n)       | O(n)   |
 | append       | O(1)       | O(1)   |
 | appendleft       | O(1)       | O(1)   |
