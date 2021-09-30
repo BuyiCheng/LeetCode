@@ -1,7 +1,7 @@
 > Reference: https://wiki.python.org/moin/TimeComplexity
 ## list
 | Operation      | Average Case | Worst Case   |
-| :---:         |    :----:   |      : ---: |
+| ---         |    ----  |       --- |
 | Copy       | O(n)       | O(n)   |
 | Append     |O(1)        | O(1)   |
 | Pop last     | O(1)       | O(1)   |
