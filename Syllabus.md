@@ -52,19 +52,21 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
     - direction: %2
 5.  [54 - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 6.  [Pascal's Triangle](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1170/)
-
 7.  [Add Binary](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)
 8.  [Implement strStr()](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1161/)
 9.  [Longest Common Prefix](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1162/)
 10.  [Reverse String](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1183/)
-
-11. [Array Partition I](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1154/)
-
+11.  [Array Partition I](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1154/)
 12. [167-Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
     - two-pointer
 13. [Remove Element](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1151/)
 14. [Max Consecutive Ones](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1301/) (Sliding window problem)
 15. [209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (Sliding window problem)
+16.  [Pascal's Triangle II](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1171/)
+17.  [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/)
+18.  [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/)
+19.  [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/)
+20.  [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/)
 
 ### Conclusion
 
