@@ -67,7 +67,6 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 18.  [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/)
 19.  [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/)
 20.  [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/)
-
 ### Conclusion
 
 1. **Two-pointer Technique**
@@ -76,4 +75,15 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
    - one is still used for the iteration while the second one always points at the position for next addition
      - 13, 14, 15
    - [Slow-pointer and fast-pointer problem in Linked List](https://leetcode.com/explore/learn/card/linked-list/214/linked-list-two-pointer/)
-2. 
+
+
+
+## Queue and Stack
+
+### Problems
+
+1. [622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+
+2. [Moving Average from Data Stream](https://leetcode.com/explore/learn/card/queue-stack/228/first-in-first-out-data-structure/1368/)
+   - deque 双向队列-双向链表
+
