@@ -83,7 +83,11 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 ### Problems
 
 1. [622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
-
 2. [Moving Average from Data Stream](https://leetcode.com/explore/learn/card/queue-stack/228/first-in-first-out-data-structure/1368/)
    - deque 双向队列-双向链表
-
+3. [286 - Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
+4. [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)
+5. [752 - Open the Lock](https://leetcode.com/problems/open-the-lock/)
+6. [Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/)
+   - BFS-shortest path, set() for visited node avoid repeated computing
+7. 
