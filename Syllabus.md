@@ -90,4 +90,9 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 5. [752 - Open the Lock](https://leetcode.com/problems/open-the-lock/)
 6. [Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/)
    - BFS-shortest path, set() for visited node avoid repeated computing
-7. 
+7. [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/)
+8. [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/)
+9. [Daily Temperatures](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1363/)
+10. [Evaluate Reverse Polish Notation](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1394/)
+11. 
+
