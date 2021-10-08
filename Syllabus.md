@@ -89,11 +89,17 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 3. [286 - Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 4. [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)
 5. [752 - Open the Lock](https://leetcode.com/problems/open-the-lock/)
-6. [Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/)
+6. *[Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/)
    - BFS-shortest path, set() for visited node avoid repeated computing
 7. [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/)
 8. [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/)
 9. [Daily Temperatures](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1363/)
 10. [Evaluate Reverse Polish Notation](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1394/)
 11. [Clone Graph](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1392/)
+12. *[494 - Target Sum](https://leetcode.com/problems/target-sum/)
+13. [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1383/)
+14. [Implement Queue using Stacks](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1386/)
+15. [Implement Stack using Queues](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1387/)
+16. [Decode String](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1379/)
+17. [Flood Fill](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1393/)
 
