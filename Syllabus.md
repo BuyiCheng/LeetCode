@@ -9,7 +9,12 @@
 
 ## Statistics
 
-
+| Topic                | Easy | Medium | Hard | Unknown |
+| -------------------- | ---- | ------ | :--- | ------- |
+| **Array and String** | 13   | 5      | 0    | 3       |
+| **Queue and Stack**  | 7    | 11     | 0    | 1       |
+|                      |      |        |      |         |
+| **Total**            | 20   | 16     | 0    | 4       |
 
 ## Order
 
