@@ -7,6 +7,8 @@
 
 
 
+## Statistics
+
 
 
 ## Order
@@ -44,30 +46,31 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 
 ### Problems
 
-1.  [Find Pivot Index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/) ([1991- Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) )
+1.  [Find Pivot Index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/) ([1991- Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) ) - Easy
     - left = right( sum - left - current)
-2.  [Largest Number At Least Twice of Others](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/)
-3.  [Plus One](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/)
-4.  *[Diagonal Traverse](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1167/)
+2.  [Largest Number At Least Twice of Others](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/) - Unknown
+3.  [Plus One](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/) - Easy
+4.  *[Diagonal Traverse](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1167/) - Medium
     - the sum of indices on all diagonals are equal
     - direction: %2
-5.  [54 - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-6.  [Pascal's Triangle](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1170/)
-7.  [Add Binary](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)
-8.  [Implement strStr()](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1161/)
-9.  [Longest Common Prefix](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1162/)
-10.  [Reverse String](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1183/)
-11.  [Array Partition I](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1154/)
-12. [167-Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+5.  [54 - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - Medium
+6.  [Pascal's Triangle](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1170/) - Easy
+7.  [Add Binary](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/) - Easy
+8.  [Implement strStr()](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1161/) - Unknown
+9.  [Longest Common Prefix](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1162/) - Easy
+10.  [Reverse String](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1183/) - Easy
+11.  [Array Partition I](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1154/) - Unknown
+12. [167-Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Easy
     - two-pointer
-13. [Remove Element](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1151/)
-14. [Max Consecutive Ones](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1301/) (Sliding window problem)
-15. [209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (Sliding window problem)
-16.  [Pascal's Triangle II](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1171/)
-17.  [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/)
-18.  [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/)
-19.  [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/)
-20.  [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/)
+13. [Remove Element](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1151/) - Easy
+14. [Max Consecutive Ones](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1301/) (Sliding window problem) - Easy
+15. [209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (Sliding window problem) - Medium
+16.  [Rotate Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1182/) - Medium
+17.  [Pascal's Triangle II](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1171/) - Easy
+18.  [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/) - Medium
+19.  [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/) - Easy
+20.  [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/) - Easy
+21.  [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/) - Easy
 ### Conclusion
 
 1. **Two-pointer Technique**
@@ -83,27 +86,27 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 
 ### Problems
 
-1. [622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
-2. [Moving Average from Data Stream](https://leetcode.com/explore/learn/card/queue-stack/228/first-in-first-out-data-structure/1368/)
+1. [622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) - Medium
+2. [Moving Average from Data Stream](https://leetcode.com/explore/learn/card/queue-stack/228/first-in-first-out-data-structure/1368/) - Easy
    - deque 双向队列-双向链表
-3. [286 - Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
-4. [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)
-5. [752 - Open the Lock](https://leetcode.com/problems/open-the-lock/)
-6. *[Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/)
+3. [286 - Walls and Gates](https://leetcode.com/problems/walls-and-gates/) - Medium
+4. [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
+5. [752 - Open the Lock](https://leetcode.com/problems/open-the-lock/) - Medium
+6. *[Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/) \- Medium
    - BFS-shortest path, set() for visited node avoid repeated computing
-7. [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/)
-8. [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/)
-9. [Daily Temperatures](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1363/)
-10. [Evaluate Reverse Polish Notation](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1394/)
-11. [Clone Graph](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1392/)
-12. *[494 - Target Sum](https://leetcode.com/problems/target-sum/)
-13. [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1383/)
-14. [Implement Queue using Stacks](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1386/)
-15. [Implement Stack using Queues](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1387/)
-16. [Decode String](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1379/)
-17. [Flood Fill](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1393/)
-18. [01 Matrix](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1388/)
-19. [Keys and Rooms](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1391/)
+7. [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/) - Easy
+8. [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/) - Easy
+9. [Daily Temperatures](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1363/) - Unknown
+10. [Evaluate Reverse Polish Notation](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1394/) \- Medium
+11. [Clone Graph](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1392/) \- Medium
+12. *[494 - Target Sum](https://leetcode.com/problems/target-sum/) \- Medium
+13. [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1383/) - Easy
+14. [Implement Queue using Stacks](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1386/) - Easy
+15. [Implement Stack using Queues](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1387/) - Easy
+16. [Decode String](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1379/) \- Medium
+17. [Flood Fill](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1393/) - Easy
+18. [01 Matrix](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1388/) \- Medium
+19. [Keys and Rooms](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1391/) \- Medium
 
 
 
