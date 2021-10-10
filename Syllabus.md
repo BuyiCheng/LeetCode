@@ -102,4 +102,21 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 15. [Implement Stack using Queues](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1387/)
 16. [Decode String](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1379/)
 17. [Flood Fill](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1393/)
+18. [01 Matrix](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1388/)
+19. [Keys and Rooms](https://leetcode.com/explore/learn/card/queue-stack/239/conclusion/1391/)
 
+
+
+### Conclusion
+
+1. Queue & Stack
+2. Circular Queue: a fixed-size array
+3. Queue and BFS
+   - BFS Template I: shortest path
+     - out while loop and inner for loop (length of stack)
+   - BFS Template II: never visited a node twice
+     - visited
+4. Stack and DFS
+   - DFS Template I: recursion
+   - DFS Template II: explicit stack
+     - visited 
