@@ -13,7 +13,7 @@
 | -------------------- | ---- | ------ | :--- | ------- |
 | **Array and String** | 13   | 5      | 0    | 3       |
 | **Queue and Stack**  | 7    | 11     | 0    | 1       |
-|                      |      |        |      |         |
+| **Hash Table**       |      |        |      |         |
 | **Total**            | 20   | 16     | 0    | 4       |
 
 ## Order
@@ -128,3 +128,16 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
    - DFS Template I: recursion
    - DFS Template II: explicit stack
      - visited 
+
+
+
+## Hash Table
+
+### Problems
+
+1. [Design HashSet](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1139/) - Easy
+2. [Design HashMap](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/) - Easy
+3. [Contains Duplicate](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1112/) - Easy
+4. [Single Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1176/) - Easy
+5. [Intersection of Two Arrays](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/) - Easy
+6. [Happy Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/) - Easy
