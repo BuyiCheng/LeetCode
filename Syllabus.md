@@ -141,3 +141,11 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 4. [Single Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1176/) - Easy
 5. [Intersection of Two Arrays](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/) - Easy
 6. [Happy Number](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/) - Easy
+7. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy
+8. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - Easy
+9. [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - Easy
+10. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - Easy
+11. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) - Easy
+12. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - Easy
+13. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) - Easy
+
