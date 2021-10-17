@@ -9,12 +9,12 @@
 
 ## Statistics
 
-| Topic                | Easy | Medium | Hard | Unknown |
-| -------------------- | ---- | ------ | :--- | ------- |
-| **Array and String** | 13   | 5      | 0    | 3       |
-| **Queue and Stack**  | 7    | 11     | 0    | 1       |
-| **Hash Table**       |      |        |      |         |
-| **Total**            | 20   | 16     | 0    | 4       |
+| Topic                | Easy | Medium | Hard | Unknown | Sum  |
+| -------------------- | ---- | ------ | :--- | ------- | ---- |
+| **Array and String** | 13   | 5      | 0    | 3       | 21   |
+| **Queue and Stack**  | 7    | 11     | 0    | 1       | 19   |
+| **Hash Table**       | 13   | 2      | 0    | 2       | 17   |
+| **Total**            | 33   | 18     | 0    | 6       | 57   |
 
 ## Order
 
@@ -148,4 +148,8 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 11. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) - Easy
 12. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - Easy
 13. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) - Easy
+14. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium
+15. *[Group Shifted Strings](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1125/) - Unknown
+16. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium
+17. [Find Duplicate Subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/) - Unknown
 
