@@ -13,8 +13,8 @@
 | -------------------- | ---- | ------ | :--- | ------- | ---- |
 | **Array and String** | 20   | 6      | 0    | 7       | 33   |
 | **Queue and Stack**  | 7    | 11     | 0    | 1       | 19   |
-| **Hash Table**       | 13   | 2      | 0    | 2       | 17   |
-| **Total**            | 40   | 19     | 0    | 10      | 69   |
+| **Hash Table**       | 15   | 6      | 0    | 3       | 24   |
+| **Total**            | 42   | 23     | 0    | 11      | 76   |
 
 ## Order
 
@@ -175,6 +175,13 @@ Hash table is a data structure using **hash funcitons** in order to support quic
 15. *[Group Shifted Strings](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1125/) - Unknown
 16. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium
 17. [Find Duplicate Subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/) - Unknown
+18. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
+19. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium
+20. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) - Easy
+21. [4Sum II](https://leetcode.com/problems/4sum-ii/) - Medium
+22. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Medium
+23. [Unique Word Abbreviation](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1137/) - Unknown
+24. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) - Medium
 
 ### Conclusion
 
