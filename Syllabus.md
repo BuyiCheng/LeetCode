@@ -11,10 +11,10 @@
 
 | Topic                | Easy | Medium | Hard | Unknown | Sum  |
 | -------------------- | ---- | ------ | :--- | ------- | ---- |
-| **Array and String** | 13   | 5      | 0    | 3       | 21   |
+| **Array and String** | 20   | 6      | 0    | 7       | 33   |
 | **Queue and Stack**  | 7    | 11     | 0    | 1       | 19   |
 | **Hash Table**       | 13   | 2      | 0    | 2       | 17   |
-| **Total**            | 33   | 18     | 0    | 6       | 57   |
+| **Total**            | 40   | 19     | 0    | 10      | 69   |
 
 ## Order
 
@@ -76,6 +76,22 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 19.  [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/) - Easy
 20.  [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/) - Easy
 21.  [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/) - Easy
+
+**Arrays 101**
+
+1. [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/) - Unknown
+2. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
+3. [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) - Easy
+4. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - Easy
+5. [Check If N and Its Double Exist](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/) - Unknown
+6. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) - Easy
+7. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3259/) - Unknown
+8. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
+9. [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) - Unknown
+10. [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) - Medium
+11. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) - Easy
+12. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) - Easy
+
 ### Conclusion
 
 1. **Two-pointer Technique**
@@ -133,6 +149,13 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 
 ## Hash Table
 
+### Introduction
+
+Hash table is a data structure using **hash funcitons** in order to support quick **insertion** and **search**.
+
+- hash set: set - no repeated values
+- hash map: map - (key, value) pair
+
 ### Problems
 
 1. [Design HashSet](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1139/) - Easy
@@ -152,4 +175,15 @@ Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm,
 15. *[Group Shifted Strings](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1125/) - Unknown
 16. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Medium
 17. [Find Duplicate Subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/) - Unknown
+
+### Conclusion
+
+How to design the key?
+
+1. When the order of each element in the string/array doesn't matter, you can use the **sorted string/array** as the key.
+2. If you only care about the offset of each value, usually the offset from the first value, you can use the **offset** as the key.
+3. In a tree, you might want to directly use the **TreeNode** as key sometimes. But in most cases, **the serialization of the subtree** might be a better idea.
+4. In a matrix, you might want to use the **row index** or the **column index** as key.
+5. In a Sudouku, you can combine the row index and the column index to identify which **block** the element belongs to.
+6. Sometimes, in a matrix, you might want to aggregate the values in the same **diagonal line**.
 
