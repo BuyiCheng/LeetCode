@@ -194,3 +194,11 @@ How to design the key?
 5. In a Sudouku, you can combine the row index and the column index to identify which **block** the element belongs to.
 6. Sometimes, in a matrix, you might want to aggregate the values in the same **diagonal line**.
 
+## Binary Search
+
+### problems
+
+1. [Binary Search](https://leetcode.com/problems/binary-search/) - Easy
+2. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) - Easy
+3. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) - Easy
+4. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Medium
