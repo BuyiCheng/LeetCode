@@ -204,3 +204,4 @@ How to design the key?
 4. *[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Medium
 5. [First Bad Version](https://leetcode.com/problems/first-bad-version/) - Easy
 6. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) - Medium
+7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Medium
