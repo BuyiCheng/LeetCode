@@ -205,3 +205,10 @@ How to design the key?
 5. [First Bad Version](https://leetcode.com/problems/first-bad-version/) - Easy
 6. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) - Medium
 7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Medium
+8. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Medium
+9. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) - Medium
+10. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) - Easy
+11. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) - Medium
+12. [Pow(x, n)](https://leetcode.com/problems/powx-n/) - Medium
+13. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - Easy
+14. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - Easy

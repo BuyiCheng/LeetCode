@@ -5,6 +5,7 @@
 # @File : Find Peak Element.py
 # @Description :
 """
+from typing import List
 
 
 class Solution:
