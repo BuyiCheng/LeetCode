@@ -212,3 +212,6 @@ How to design the key?
 12. [Pow(x, n)](https://leetcode.com/problems/powx-n/) - Medium
 13. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - Easy
 14. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - Easy
+15. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) - Hard
+16. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - Medium
+
