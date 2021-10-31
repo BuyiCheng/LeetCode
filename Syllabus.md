@@ -229,3 +229,7 @@ How to design the key?
 6. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - Easy
 7. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 8. [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) - Medium
+9. [Sort an Array](https://leetcode.com/problems/sort-an-array/) - Medium
+10. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Medium
+11. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) - Medium
+
