@@ -232,4 +232,11 @@ How to design the key?
 9. [Sort an Array](https://leetcode.com/problems/sort-an-array/) - Medium
 10. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Medium
 11. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) - Medium
+12. *[N-Queens II](https://leetcode.com/problems/n-queens-ii/) - Hard
+13. [Combinations](https://leetcode.com/problems/combinations/) - Medium
+14. [Same Tree](https://leetcode.com/problems/same-tree/) - Easy
+15. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - Medium
+16. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - Medium
+17. [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) - Medium
+18. *[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - Hard
 
