@@ -239,4 +239,6 @@ How to design the key?
 16. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - Medium
 17. [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) - Medium
 18. *[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - Hard
+19. *[Permutations](https://leetcode.com/problems/permutations/) - Medium
+20. [Letter Combinations of a Phone Number](https://leetcode.com/explore/learn/card/recursion-ii/507/beyond-recursion/2905/) - Medium
 
