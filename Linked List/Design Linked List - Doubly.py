@@ -1,15 +1,17 @@
 # _*_ coding: utf-8 _*_
 """
-# @Time : 11/12/2021 4:56 PM
+# @Time : 11/14/2021 9:54 AM
 # @Author : byc
-# @File : Design Linked List.py
+# @File : Design Linked List - Doubly.py
 # @Description :
 """
 
-class Node:
+
+class DoublyNode:
     def __init__(self, val):
         self.val = val
         self.next = None
+        self.prev = None
 
 
 class MyLinkedList:
@@ -27,17 +29,20 @@ class MyLinkedList:
         return tmp.val if tmp else -1
 
     def addAtHead(self, val: int) -> None:
-        n = Node(val)
+        n = DoublyNode(val)
         n.next = self.head
+        if self.head:
+            self.head.prev = n
         self.head = n
 
     def addAtTail(self, val: int) -> None:
         tmp = self.head
-        n = Node(val)
+        n = DoublyNode(val)
         if tmp:
             while tmp.next:
                 tmp = tmp.next
             tmp.next = n
+            n.prev = tmp
         else:
             self.head = n
 
@@ -50,10 +55,13 @@ class MyLinkedList:
                 else:
                     return
             if tmp:
-                n = Node(val)
+                n = DoublyNode(val)
                 temp = tmp.next
                 tmp.next = n
+                n.prev = tmp
                 n.next = temp
+                if temp:
+                    temp.prev = n
         else:
             self.addAtHead(val)
 
@@ -64,7 +72,10 @@ class MyLinkedList:
                 if tmp:
                     tmp = tmp.next
             if tmp and tmp.next:
-                tmp.next = tmp.next.next
+                next_e = tmp.next.next
+                tmp.next = next_e
+                if next_e:
+                    next_e.prev = tmp
         else:
             if tmp:
                 self.head = tmp.next
