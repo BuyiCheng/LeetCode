@@ -257,3 +257,9 @@ How to design the key?
 7. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) - Easy
 8. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) - Medium
 9. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
+10. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
+11. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) - Medium
+12. [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/solution/) - Medium
+13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - Medium
+14. [Rotate List](https://leetcode.com/problems/rotate-list/solution/) - Medium
+
