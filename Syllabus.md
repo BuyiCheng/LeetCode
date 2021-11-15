@@ -35,7 +35,7 @@
 
 
 
-Recursion, linked list, Queue and Stack,  binary tree, bst, heap&grap algorithm, dfs, hash table, string, bit operations, dp, 
+Recursion, linked list, Queue and Stack,  binary tree, bst, heap&graph algorithm, dfs, hash table, string, bit operations, dp, 
 
 
 
@@ -262,4 +262,47 @@ How to design the key?
 12. [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/solution/) - Medium
 13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) - Medium
 14. [Rotate List](https://leetcode.com/problems/rotate-list/solution/) - Medium
+
+### Conclusion
+
+**Summary - Two-Pointer in Linked List**
+
+1. Always examine if the node is null before you call the next field.
+   - Getting the next node of a null node will cause the null-pointer error. For example, before we run `fast = fast.next.next`, we need to examine both `fast` and `fast.next` is not null.
+2. Carefully define the end conditions of your loop.
+   - Run several examples to make sure your end conditions will not result in an endless loop. And you have to take our first tip into consideration when you define your end conditions.
+
+**Linked List Classic Problems**
+
+1. Going through some test cases will save you time.
+
+   - It is not easy to debug when using a linked list. Therefore, it is always useful to try several different examples on your own to validate your algorithm before writing code.
+
+2. Feel free to use several pointers at the same time.
+
+   - Sometimes when you design an algorithm for a linked-list problem, there might be several nodes you want to track at the same time. You should keep in mind which nodes you need to track and feel free to use several different pointers to track these nodes at the same time.
+
+     If you use several pointers, it will be better to give them suitable names in case you have to debug or review your code in the future.
+
+3.  In many cases, you need to track the previous node of the current node.
+
+   - You are not able to trace back the previous node in a singly linked list. So you have to store not only the current node but also the previous node. This is different in a doubly linked list which we will cover in the later chapter.
+
+**Time Complexity Comparison**
+
+![image-20211115131324220](image/Syllabus/image-20211115131324220.png)
+
+> If you need to add or delete a node frequently, a linked list could be a good choice.
+>
+> If you need to access an element by index often, an array might be a better choice than a linked list.
+
+
+
+## Binary Tree
+
+### Problems
+
+1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) - Easy
+2. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) - Easy
+3. 
 
