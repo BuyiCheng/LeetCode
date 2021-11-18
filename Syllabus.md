@@ -304,5 +304,9 @@ How to design the key?
 
 1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) - Easy
 2. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) - Easy
-3. 
+3. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - Easy
+4. [Path Sum](https://leetcode.com/problems/path-sum/solution/) - Easy
+5. [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) - Medium
+6. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) - Medium
+7. 
 
