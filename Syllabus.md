@@ -35,7 +35,19 @@
 
 
 
-Recursion, linked list, Queue and Stack,  binary tree, bst, heap&graph algorithm, dfs, hash table, string, bit operations, dp, 
+- [x] Recursion
+- [x] linked list
+- [x] Queue and Stack
+- [x] binary search
+- [x] binary tree
+- [ ] bst
+- [ ] heap
+- [ ] graph
+- [x] bfs/dfs
+- [x] hash table
+- [x] array & string
+- [ ] bit operations
+- [ ] dp
 
 
 
@@ -307,10 +319,16 @@ How to design the key?
 3. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - Easy
 4. [Path Sum](https://leetcode.com/problems/path-sum/solution/) - Easy
 5. [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) - Medium
-6. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) - Medium
+6. *[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) - Medium
 7. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - Medium
 8. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - Medium
 9. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) - Medium
 10. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - Medium
-11. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Hard
+11. *[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Hard
+
+
+
+## Binary Search Tree
+
+### Problems
 
