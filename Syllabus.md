@@ -332,3 +332,8 @@ How to design the key?
 
 ### Problems
 
+1. *[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) - Medium
+2. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) - Medium
+3. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - Easy
+4. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) - Medium
+5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) - Medium
