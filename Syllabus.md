@@ -337,3 +337,6 @@ How to design the key?
 3. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - Easy
 4. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) - Medium
 5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) - Medium
+6. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/solution/) - Easy
+7. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
+
