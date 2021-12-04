@@ -339,4 +339,7 @@ How to design the key?
 5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) - Medium
 6. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/solution/) - Easy
 7. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
+8. *[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) - Medium
+9. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) - Easy
+10. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - Easy
 
