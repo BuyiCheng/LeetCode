@@ -1,4 +1,6 @@
 > Reference: https://wiki.python.org/moin/TimeComplexity
+>
+> https://juejin.cn/post/6864417441724760077
 ## list
 | Operation      | Average Case | Worst Case   |
 | ---         |    ----  |       --- |
@@ -56,3 +58,4 @@
 | extendleft      | O(k)       | O(k)   |
 | rotate       | O(k)       | O(k)   |
 | remove       | O(n)       | O(n)   |
+

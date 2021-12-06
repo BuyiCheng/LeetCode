@@ -40,7 +40,7 @@
 - [x] Queue and Stack
 - [x] binary search
 - [x] binary tree
-- [ ] bst
+- [x] bst
 - [ ] heap
 - [ ] graph
 - [x] bfs/dfs
@@ -342,4 +342,21 @@ How to design the key?
 8. *[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) - Medium
 9. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) - Easy
 10. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) - Easy
+
+
+
+## Heap
+
+### Problems
+
+1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium
+2. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Medium
+3. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - Easy
+4. [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - Easy
+5. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) - Medium
+6. *[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - Medium
+7. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - Medium
+8. [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) - Medium
+9. [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) - Medium
+10. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
 
