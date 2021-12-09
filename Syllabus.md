@@ -41,7 +41,7 @@
 - [x] binary search
 - [x] binary tree
 - [x] bst
-- [ ] heap
+- [x] heap
 - [ ] graph
 - [x] bfs/dfs
 - [x] hash table
@@ -360,3 +360,12 @@ How to design the key?
 9. [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) - Medium
 10. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Hard
 
+
+
+## Graph
+
+### Problems
+
+1. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - Medium
+2. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium
+3. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
