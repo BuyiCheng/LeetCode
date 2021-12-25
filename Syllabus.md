@@ -369,3 +369,13 @@ How to design the key?
 1. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - Medium
 2. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Medium
 3. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Medium
+4. [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) - Medium
+5. [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) - Medium
+6. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) - Easy
+7. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) - Medium
+8. [Clone Graph](https://leetcode.com/problems/clone-graph/solution/) - Medium
+9. [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) - Medium
+10. Populating Next Right Pointers in Each Node - Medium
+11. Shortest Path in Binary Matrix - Medium
+12. N-ary Tree Level Order Traversal - Medium
+13. Rotting Oranges - Medium
